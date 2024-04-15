@@ -112,3 +112,9 @@ description: Unofficial servers related to Discord
 **Credit:** owned by @212844004889329664
 
 @gg/tZNRf7WfBU
+
+## Partnered Game Servers
+
+> **Description:** A community made up of members from the staff of various different partnered/verified gaming servers (PGS!). <br/>
+**Link:** (only by referral) (access request required)   <br/>
+**Credit:** Partnered Game Server team (owned by @166767825350819840)
